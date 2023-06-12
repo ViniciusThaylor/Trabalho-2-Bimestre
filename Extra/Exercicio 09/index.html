@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Calculadora de Pagamento</title>
+    <script src="script.js"></script>
+</head>
+
+<body>
+    <h1>Calculadora de Pagamento</h1>
+    <label for="precoEtiqueta">Preço de Etiqueta:</label>
+    <input type="number" step="0.01" id="precoEtiqueta">
+    <br>
+    <label for="condicaoPagamento">Condição de Pagamento:</label>
+    <select id="condicaoPagamento">
+        <option value="a">À vista em dinheiro ou cheque</option>
+        <option value="b">À vista no cartão de crédito</option>
+        <option value="c">Em duas vezes sem juros</option>
+        <option value="d">Em duas vezes com juros de 10%</option>
+    </select>
+    <br>
+    <button onclick="calcularValor()">Calcular</button>
+    <p id="resultado"></p>
+</body>
+
+</html>
