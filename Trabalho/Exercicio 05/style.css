@@ -1,0 +1,29 @@
+body{
+    background-image: url(https://img.freepik.com/vetores-gratis/fundo-branco-de-hexagonos-minimos_79603-1452.jpg?w=996&t=st=1686259673~exp=1686260273~hmac=c5f52d517b93797ccd12e1adf3301a3db5bd3c15f239b73b3ad3aeb611573ce9);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.titulo{
+   color: black;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+label{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button{
+    color: black;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    border-color: crimson;
+}
+
+#h1{
+    color: crimson;
+    font-family: Arial, Helvetica, sans-serif;
+    -webkit-text-stroke: 1px black;
+}

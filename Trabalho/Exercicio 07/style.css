@@ -1,0 +1,25 @@
+body{
+    background-image: url(https://img.freepik.com/fotos-gratis/fundo-azul-do-gradiente-de-luxo-abstrato-liso-azul-escuro-com-vinheta-preta-studio-banner_1258-52630.jpg?w=996&t=st=1686260161~exp=1686260761~hmac=3bcdf368365dfdfea2ec1daa796e9fdfd694d047fe512ef62990265c39b43265);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+}
+
+label{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input{
+    border-color: black;
+}
+
+#h1{
+    color: black;
+    -webkit-text-stroke: 0.1px white;
+}
+
+

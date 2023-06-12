@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(185, 185, 185);
+}
+
+table{
+    border-color: darkmagenta;
+    border-collapse: collapse;
+    border-width: 3px;
+}
+
+.divi{
+    margin-top: -95px;
+}
+
+.h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    color: darkmagenta;
+}
+
+label{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+::placeholder{
+    color: darkmagenta;
+
+}
+
+.h1{
+    font-family: Arial, Helvetica, sans-serif;
+}

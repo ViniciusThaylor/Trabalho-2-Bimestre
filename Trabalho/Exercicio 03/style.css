@@ -1,0 +1,33 @@
+body{
+    background-image: url(https://img.freepik.com/vetores-gratis/fundo-branco-com-desenho-de-padrao-hexagonal-3d_1017-28443.jpg?w=996&t=st=1686257575~exp=1686258175~hmac=2e07e4bbed3ec09b47ff46e8336d8c7f605affd351344752c7bfdd3083eae2d2);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.titulo{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 45px;
+    font-weight: bold;
+    font-style: normal;
+    color: darkorange;
+    -webkit-text-stroke: 1.5px black;
+}
+
+input{
+    width: 150px;
+    height: 15px;
+    border-color: darkorange;
+}
+
+::placeholder{
+    color:black;
+    font-weight: bold;
+}
+
+button{
+    color: darkorange;
+    font-weight: bold;
+    border-radius: 10px;
+    border-color: black;
+    border-width: 3px;
+}
